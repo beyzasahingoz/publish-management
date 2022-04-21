@@ -4,12 +4,22 @@ Login Page:
 ![Ekran görüntüsü 2022-04-21 143735](https://user-images.githubusercontent.com/70069234/164451256-a38c0cd6-4322-48a8-bf2e-70ec086e84b2.png)
 
 Main Page:
-https://user-images.githubusercontent.com/70069234/164450811-d8f6a3f5-7b3c-423c-897d-90e400bd9d88.png
+
+![Ekran görüntüsü 2022-04-21 143826](https://user-images.githubusercontent.com/70069234/164451575-f7d821f0-971e-4dcc-b6ec-71cdd48fa562.png)
+
 Other pages:
-https://user-images.githubusercontent.com/70069234/164450859-63074218-6db5-4142-a013-755f20fef595.png
+
+![Ekran görüntüsü 2022-04-21 143853](https://user-images.githubusercontent.com/70069234/164451620-d311d02a-6215-45e9-85d3-3256ec95f809.png)
+
 -
-https://user-images.githubusercontent.com/70069234/164450913-f6ad0dab-08d3-44bc-a098-9f4375ec5d6f.png
+
+![Ekran görüntüsü 2022-04-21 143916](https://user-images.githubusercontent.com/70069234/164451683-80d047e4-a808-4b8c-a7a5-0340cae14b54.png)
+
 -
-https://user-images.githubusercontent.com/70069234/164450937-eb8d3f01-fca3-4c11-827b-498fdac75fa6.png
+
+![Ekran görüntüsü 2022-04-21 143933](https://user-images.githubusercontent.com/70069234/164451735-9b0ad126-9370-4fbb-ba15-8d0f4a132964.png)
+
 -
-https://user-images.githubusercontent.com/70069234/164450972-1f8b8f2e-7214-4698-8158-2261133c5f76.png
+
+![Ekran görüntüsü 2022-04-21 144021](https://user-images.githubusercontent.com/70069234/164451774-82323618-d469-4f8e-b872-a608f486e4ae.png)
+
