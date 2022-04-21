@@ -1,7 +1,8 @@
 # publish-management
 Authors registered with the publishing house perform their transactions here.
 Login Page:
-https://user-images.githubusercontent.com/70069234/164450646-7c96dbd9-3c3f-4f16-a648-a655df13c4b0.png
+![Ekran görüntüsü 2022-04-21 143735](https://user-images.githubusercontent.com/70069234/164451256-a38c0cd6-4322-48a8-bf2e-70ec086e84b2.png)
+
 Main Page:
 https://user-images.githubusercontent.com/70069234/164450811-d8f6a3f5-7b3c-423c-897d-90e400bd9d88.png
 Other pages:
